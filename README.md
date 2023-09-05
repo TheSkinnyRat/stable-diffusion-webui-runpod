@@ -98,3 +98,8 @@ Code Reference: https://github.com/camenduru/stable-diffusion-webui-colab
 
 !python launch.py --listen --xformers --enable-insecure-extension-access --theme dark
 ```
+
+# Basic Negative Prompt
+```
+(worst quality, low quality:1.4), (lip, nose, tooth, rouge, lipstick, eyeshadow:1.4), (blush:1.2), (jpeg artifacts:1.4), (depth of field, bokeh, blurry, film grain, chromatic aberration, lens flare:1.0), (1boy, abs, muscular, rib:1.0), greyscale, monochrome, dusty sunbeams, trembling, motion lines, motion blur, emphasis lines, text, title, logo, signature, EasyNegativeV2
+```
