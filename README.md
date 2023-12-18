@@ -38,6 +38,7 @@ Code Reference: https://github.com/camenduru/stable-diffusion-webui-colab
 !git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper /content/stable-diffusion-webui/extensions/sd-webui-aspect-ratio-helper
 !git clone https://github.com/tjm35/asymmetric-tiling-sd-webui /content/stable-diffusion-webui/extensions/asymmetric-tiling-sd-webui
 !git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/stable-diffusion-webui/extensions/a1111-sd-webui-tagcomplete
+!git clone https://github.com/zanllp/sd-webui-infinite-image-browsing /content/stable-diffusion-webui/extensions/sd-webui-infinite-image-browsing
 
 %cd /content/stable-diffusion-webui
 !git reset --hard
